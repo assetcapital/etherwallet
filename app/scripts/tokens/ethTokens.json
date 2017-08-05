@@ -42,6 +42,12 @@
     "type":"default"
   },
   {
+    "address":"0x59de38752b22c13cb45da2105cd769e57ff615a8",
+    "symbol":"AST",
+    "decimal":18,
+    "type":"default"
+  },
+  {
     "address":"0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
     "symbol":"BAT",
     "decimal":18,
